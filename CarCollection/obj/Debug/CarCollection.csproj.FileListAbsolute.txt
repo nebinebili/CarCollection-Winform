@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\CarCollection\CarCollection\bin\Debug\CarCollection.exe.config
+C:\Users\Admin\source\repos\CarCollection\CarCollection\bin\Debug\CarCollection.exe
+C:\Users\Admin\source\repos\CarCollection\CarCollection\bin\Debug\CarCollection.pdb
+C:\Users\Admin\source\repos\CarCollection\CarCollection\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\source\repos\CarCollection\CarCollection\obj\Debug\CarCollection.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\CarCollection\CarCollection\obj\Debug\CarCollection.Form1.resources
+C:\Users\Admin\source\repos\CarCollection\CarCollection\obj\Debug\CarCollection.Properties.Resources.resources
+C:\Users\Admin\source\repos\CarCollection\CarCollection\obj\Debug\CarCollection.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\CarCollection\CarCollection\obj\Debug\CarCollection.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CarCollection\CarCollection\obj\Debug\CarCollection.csproj.CopyComplete
+C:\Users\Admin\source\repos\CarCollection\CarCollection\obj\Debug\CarCollection.exe
+C:\Users\Admin\source\repos\CarCollection\CarCollection\obj\Debug\CarCollection.pdb
